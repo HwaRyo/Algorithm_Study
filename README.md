@@ -1,1 +1,1 @@
-# CodingTest 저장소
+# Algorithm Study 저장소
